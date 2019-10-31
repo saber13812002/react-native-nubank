@@ -80,7 +80,7 @@ This project is under the MIT license. See the [LICENSE](https://github.com/feli
 
 ---
 
-Made with 💜 by Felipe Rodriguess - Get in touch!](https://www.linkedin.com/in/felipearn/)
+Made with 💜 by Felipe Rodriguess - [Get in touch!](https://www.linkedin.com/in/felipearn/)
 
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/
