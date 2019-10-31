@@ -42,7 +42,7 @@
 
 ## :rocket: Technologies
 
-This project was developed with the [RocketSeat Nubank Clone Video](https://youtu.be/DDm0M_rZLJo) with the following technologies:
+This project was developed with the with the following technologies:
 
 -  [React Native](http://facebook.github.io/react-native/)
 -  [React Navigation](https://reactnavigation.org/)
