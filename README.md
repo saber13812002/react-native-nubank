@@ -5,7 +5,7 @@
 </h1>
 
 <h4 align="center">
-  A React Native clone app of one of the greatest fintechs of the world: Nubank <a href="https://nubank.com.br/">Nubank</a>
+  A React Native clone app of one of the greatest fintechs of the world: <a href="https://nubank.com.br/">Nubank</a>
 </h4>
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/feliperodriguess/react-native-nubank.svg">
