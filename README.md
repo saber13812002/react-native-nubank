@@ -35,6 +35,9 @@
   <a href="#memo-license">License</a>
 </p>
 
+![App Screenshot](https://github.com/feliperodriguess/repapp/blob/master/src/assets/Screenshot1.jpg)
+![App Screenshot](https://github.com/feliperodriguess/repapp/blob/master/src/assets/Screenshot2.jpg)
+
 ## :rocket: Technologies
 
 This project was developed with the [RocketSeat Nubank Clone Video](https://youtu.be/DDm0M_rZLJo) with the following technologies:
