@@ -35,8 +35,8 @@
   <a href="#memo-license">License</a>
 </p>
 
-![App Screenshot](https://github.com/feliperodriguess/react-native-nubank/blob/master/src/assets/Screenshot1.jpg)
-![App Screenshot](https://github.com/feliperodriguess/react-native-nubank/blob/master/src/assets/Screenshot2.jpg)
+![App Screenshot](https://github.com/feliperodriguess/react-native-nubank/blob/master/assets/Screenshot1.jpg)
+![App Screenshot](https://github.com/feliperodriguess/react-native-nubank/blob/master/assets/Screenshot2.jpg)
 
 ## :rocket: Technologies
 
