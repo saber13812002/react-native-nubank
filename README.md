@@ -73,11 +73,8 @@ $ cd nubank-clone
 # Install dependencies
 $ yarn install
 
-# Run the app (iOS)
-$ react-native run-ios --simulator="iPhone XS Max"
-
-# Run the app (Android)
-$ react-native run-android
+# Run the app 
+$ yarn start
 ```
 
 ## :memo: License
